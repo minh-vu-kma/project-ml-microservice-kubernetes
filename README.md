@@ -1,5 +1,5 @@
 [![<minh-vu-kma>](https://circleci.com/gh/minh-vu-kma/project-ml-microservice-kubernetes.svg?style=svg)](https://circleci.com/gh/minh-vu-kma/project-ml-microservice-kubernetes)
-
+#GET_PASSES_THIS_REPO_UDACITY_PLEASE
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
